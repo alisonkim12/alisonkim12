@@ -1,5 +1,6 @@
-### Hi there 👋
-
+ `🌱   a l i s o n ' s   g i t h u b   🌱`
+          
+ 
 <!--
 **alisonkim12/alisonkim12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
